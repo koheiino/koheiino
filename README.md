@@ -1,16 +1,23 @@
-## Hi there 👋
+# My Skill (Programming Languages, Frameworks and Tools)
 
-<!--
-**koheiino/koheiino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,vue,mysql,github,vscode,docker,laravel,discord,php,gutlab,vite" /> <br /><br />
 
-Here are some ideas to get you started:
+  
+# NOW TRAINING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+
+<br><br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=koheiino)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+    <h1>
+        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+    </h1>
+  </div>
+<br><br><br>
