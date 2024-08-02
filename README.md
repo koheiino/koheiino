@@ -1,6 +1,6 @@
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,vue,mysql,github,vscode,docker,laravel,discord,php,gutlab,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,vue,nuxt,mysql,github,vscode,docker,laravel,discord,php,vite" /> <br /><br />
 
   
 # NOW TRAINING
