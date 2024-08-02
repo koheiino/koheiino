@@ -1,15 +1,12 @@
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,vue,nuxt,mysql,github,vscode,docker,laravel,discord,php,vite" /> <br /><br />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,mysql,github,vscode,docker,laravel,discord,php,vite" /> <br /><br />
   
 # NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
 
 <br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=koheiino)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
     <h1>
