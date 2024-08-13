@@ -4,7 +4,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,typescript,docker" /> <br /><br />
 
 <br><br>
 
